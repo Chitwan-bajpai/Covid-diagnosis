@@ -36,7 +36,7 @@ The model is deployed using Streamlit, allowing users to input wine characterist
 
 ## Files in the Repository
 - [("C:\Users\Chitwan bajpai\Machine Learning\covid_toy.csv")]: The original dataset.
-- `housing.ipynb`: Jupyter notebook containing the Exploratory Data Analysis.
+- `City covid eda`: Jupyter notebook containing the Exploratory Data Analysis.
 - `requirements.txt`: It contains the modules that are needed to create this project.
 - `model1.pkl`: Serialized Logistic Regression model.
 
