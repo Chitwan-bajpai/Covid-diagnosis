@@ -4,7 +4,7 @@
 This project involves analyzing a wine dataset to predict wine quality based on various chemical properties. The steps undertaken include Exploratory Data Analysis (EDA), feature engineering, model training using Logistic Regression, and deploying the model using Streamlit.
 
 ## Dataset
-The dataset used in this project is the covid_toy dataset, which consists of various chemical properties of wine samples and their quality ratings.
+The dataset used in this project is the covid_toy dataset.
 ## Project Steps
 
 ### 1. Exploratory Data Analysis (EDA)
